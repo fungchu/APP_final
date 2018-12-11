@@ -30,6 +30,7 @@
 
 ### 1.4产品结构图
 [产品结构图](http://naotu.baidu.com/file/20ca10f949e4be2e1a3bf755294580a1?token=d43e75051620c6f9)
+
 ![image](https://github.com/fungchu/APP_final/blob/master/image/%E5%A4%A7%E8%93%9D%E5%AE%9D%E5%85%B8.png?raw=true)
 
 ## 2.目标市场
